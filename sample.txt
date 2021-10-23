@@ -1,4 +1,4 @@
-dfjune = pd.read_excel('file/June_report.xlsx')
+pd.read_excel('file/June_report.xlsx')
 
 #print(dfmay.equals(dfjune))
 
