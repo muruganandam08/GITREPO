@@ -12,3 +12,4 @@ for item in zip(rows,cols):
 dfmay.to_excel('file/output.xlsx', index=False,header=True)
 #new code will prepare by
 Hi this is merge conficit example
+this is merge confict by developer
