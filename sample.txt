@@ -1,5 +1,3 @@
-pd.read_excel('file/June_report.xlsx')
-
 #print(dfmay.equals(dfjune))
 
 comparevalues = dfmay.values == dfjune.values
@@ -14,3 +12,4 @@ dfmay.to_excel('file/output.xlsx', index=False,header=True)
 Hi this is merge conficit example
 this is merge confict by developer
 new commit
+Full commit
